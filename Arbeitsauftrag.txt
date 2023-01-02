@@ -1,4 +1,4 @@
 - erstelle eine Textdatei <DeinName.txt> und schreib eine Nachricht hinein.
-- adde die Datei zu deinem lokalen Repository
-- committe die Datei zu deinem lokalen Repository
-- pushe die Datei auf das Remote-Repository 
+- adde die Datei zu deinem lokalen Repository. Befehl: git add "DeinName.txt"
+- committe die Datei zu deinem lokalen Repository. Befehl: git commit -m "mein erster commit
+- pushe die Datei auf das Remote-Repository. Befehl: git push (Anmeldung über Browser erfolgt)
