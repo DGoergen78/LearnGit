@@ -1,0 +1,4 @@
+- erstelle eine Textdatei <DeinName.txt> und schreib eine Nachricht hinein.
+- adde die Datei zu deinem lokalen Repository
+- committe die Datei zu deinem lokalen Repository
+- pushe die Datei auf das Remote-Repository 
