@@ -6,8 +6,14 @@ dapdabidida
 Neue Codezeile test
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Weshalb hatte das Euro Disney in Paris Startschwierigkeiten?
 Weil sich nach dem Feuerwerk immer alle Mitarbeiter ergeben wollten.
 =======
 Code von Kim
 >>>>>>> 3f9aa19963cb71fdf2e6cda44e07862f514c810c
+=======
+Code von Kim
+
+Sascha ist süchtig nach Redbull
+>>>>>>> 1d1e9fd03089a31d4f63105face1d4829fcf3fcc
